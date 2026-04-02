@@ -1,6 +1,6 @@
 # ggcnn
 
-Современная автономная реализация GG-CNN для обучения на Cornell и Jacquard
+Актуальная реализация GG-CNN для обучения на Cornell и Jacquard
 с отдельными скриптами:
 - `scripts/prepare_cornell.py` — конвертация PCD -> depth и генерация индекса
 - `scripts/prepare_jacquard.py` — генерация индекса Jacquard
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 python scripts/prepare_jacquard.py --dataset-path /path/to/jacquard --output-index /path/to/jacquard_index.json
 ```
 
-## Обучение
+## train
 
 Cornell:
 ```bash
@@ -56,7 +56,7 @@ python scripts/train.py --network ggcnn2 --dataset mixed   --index /path/to/corn
 python scripts/infer_single.py --checkpoint output/cornell_run/best.pt --depth /path/to/depth.png --vis out.png
 ```
 
-Выводит grasp:
+output:
 - center (x, y) в пикселях
 - angle (rad) в координатах изображения (x вправо, y вниз)
 - opening width (px)
