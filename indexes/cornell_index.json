@@ -1,0 +1,5312 @@
+[
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0100d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0100cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0101d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0101cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0102d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0102cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0103d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0103cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0104d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0104cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0105d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0105cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0106d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0106cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0107d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0107cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0108d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0108cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0109d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0109cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0110d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0110cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0111d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0111cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0112d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0112cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0113d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0113cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0114d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0114cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0115d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0115cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0116d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0116cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0117d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0117cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0118d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0118cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0119d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0119cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0120d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0120cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0121d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0121cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0122d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0122cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0123d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0123cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0124d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0124cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0125d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0125cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0126d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0126cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0127d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0127cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0128d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0128cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0129d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0129cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0130d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0130cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0131d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0131cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0132d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0132cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0133d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0133cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0134d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0134cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0135d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0135cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0136d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0136cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0137d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0137cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0138d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0138cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0139d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0139cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0140d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0140cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0141d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0141cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0142d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0142cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0143d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0143cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0144d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0144cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0145d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0145cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0146d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0146cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0147d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0147cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0148d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0148cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0149d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0149cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0150d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0150cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0151d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0151cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0152d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0152cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0153d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0153cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0154d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0154cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0155d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0155cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0156d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0156cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0157d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0157cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0158d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0158cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0159d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0159cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0160d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0160cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0161d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0161cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0162d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0162cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0163d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0163cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0164d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0164cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0165d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0165cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0166d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0166cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0167d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0167cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0168d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0168cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0169d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0169cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0170d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0170cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0171d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0171cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0172d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0172cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0173d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0173cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0174d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0174cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0175d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0175cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0176d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0176cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0177d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0177cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0178d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0178cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0179d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0179cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0180d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0180cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0181d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0181cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0182d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0182cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0183d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0183cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0184d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0184cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0185d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0185cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0186d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0186cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0187d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0187cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0188d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0188cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0189d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0189cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0190d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0190cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0191d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0191cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0192d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0192cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0193d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0193cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0194d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0194cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0195d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0195cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0196d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0196cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0197d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0197cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0198d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0198cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0199d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\01\\pcd0199cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0200d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0200cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0201d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0201cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0202d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0202cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0203d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0203cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0204d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0204cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0205d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0205cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0206d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0206cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0207d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0207cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0208d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0208cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0209d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0209cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0210d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0210cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0211d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0211cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0212d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0212cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0213d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0213cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0214d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0214cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0215d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0215cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0216d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0216cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0217d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0217cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0218d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0218cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0219d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0219cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0220d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0220cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0221d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0221cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0222d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0222cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0223d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0223cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0224d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0224cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0225d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0225cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0226d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0226cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0227d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0227cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0228d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0228cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0229d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0229cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0230d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0230cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0231d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0231cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0232d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0232cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0233d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0233cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0234d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0234cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0235d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0235cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0236d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0236cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0237d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0237cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0238d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0238cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0239d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0239cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0240d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0240cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0241d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0241cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0242d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0242cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0243d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0243cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0244d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0244cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0245d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0245cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0246d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0246cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0247d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0247cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0248d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0248cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0249d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0249cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0250d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0250cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0251d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0251cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0252d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0252cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0253d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0253cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0254d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0254cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0255d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0255cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0256d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0256cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0257d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0257cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0258d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0258cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0259d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0259cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0260d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0260cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0261d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0261cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0262d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0262cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0263d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0263cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0264d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0264cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0265d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0265cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0266d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0266cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0267d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0267cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0268d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0268cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0269d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0269cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0270d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0270cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0271d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0271cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0272d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0272cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0273d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0273cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0274d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0274cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0275d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0275cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0276d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0276cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0277d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0277cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0278d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0278cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0279d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0279cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0280d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0280cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0281d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0281cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0282d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0282cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0283d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0283cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0284d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0284cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0285d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0285cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0286d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0286cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0287d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0287cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0288d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0288cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0289d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0289cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0290d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0290cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0291d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0291cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0292d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0292cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0293d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0293cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0294d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0294cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0295d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0295cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0296d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0296cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0297d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0297cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0298d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0298cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0299d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\02\\pcd0299cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0300d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0300cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0301d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0301cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0302d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0302cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0303d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0303cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0304d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0304cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0305d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0305cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0306d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0306cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0307d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0307cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0308d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0308cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0309d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0309cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0310d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0310cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0311d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0311cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0312d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0312cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0313d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0313cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0314d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0314cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0315d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0315cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0316d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0316cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0317d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0317cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0318d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0318cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0319d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0319cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0320d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0320cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0321d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0321cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0322d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0322cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0323d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0323cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0324d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0324cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0325d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0325cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0326d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0326cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0327d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0327cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0328d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0328cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0329d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0329cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0330d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0330cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0331d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0331cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0332d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0332cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0333d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0333cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0334d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0334cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0335d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0335cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0336d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0336cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0337d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0337cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0338d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0338cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0339d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0339cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0340d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0340cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0341d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0341cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0342d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0342cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0343d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0343cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0344d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0344cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0345d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0345cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0346d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0346cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0347d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0347cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0348d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0348cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0349d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0349cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0350d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0350cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0351d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0351cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0352d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0352cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0353d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0353cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0354d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0354cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0355d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0355cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0356d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0356cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0357d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0357cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0358d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0358cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0359d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0359cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0360d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0360cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0361d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0361cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0362d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0362cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0363d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0363cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0364d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0364cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0365d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0365cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0366d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0366cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0367d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0367cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0368d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0368cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0369d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0369cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0370d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0370cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0371d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0371cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0372d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0372cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0373d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0373cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0374d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0374cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0375d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0375cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0376d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0376cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0377d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0377cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0378d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0378cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0379d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0379cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0380d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0380cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0381d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0381cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0382d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0382cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0383d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0383cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0384d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0384cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0385d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0385cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0386d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0386cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0387d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0387cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0388d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0388cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0389d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0389cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0390d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0390cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0391d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0391cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0392d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0392cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0393d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0393cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0394d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0394cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0395d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0395cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0396d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0396cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0397d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0397cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0398d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0398cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0399d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\03\\pcd0399cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0400d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0400cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0401d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0401cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0402d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0402cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0403d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0403cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0404d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0404cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0405d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0405cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0406d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0406cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0407d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0407cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0408d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0408cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0409d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0409cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0410d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0410cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0411d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0411cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0412d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0412cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0413d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0413cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0414d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0414cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0415d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0415cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0416d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0416cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0417d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0417cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0418d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0418cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0419d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0419cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0420d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0420cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0421d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0421cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0422d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0422cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0423d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0423cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0424d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0424cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0425d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0425cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0426d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0426cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0427d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0427cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0428d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0428cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0429d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0429cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0430d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0430cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0431d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0431cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0432d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0432cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0433d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0433cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0434d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0434cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0435d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0435cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0436d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0436cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0437d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0437cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0438d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0438cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0439d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0439cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0440d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0440cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0441d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0441cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0442d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0442cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0443d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0443cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0444d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0444cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0445d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0445cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0446d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0446cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0447d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0447cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0448d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0448cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0449d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0449cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0450d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0450cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0451d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0451cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0452d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0452cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0453d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0453cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0454d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0454cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0455d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0455cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0456d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0456cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0457d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0457cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0458d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0458cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0459d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0459cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0460d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0460cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0461d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0461cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0462d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0462cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0463d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0463cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0464d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0464cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0465d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0465cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0466d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0466cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0467d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0467cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0468d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0468cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0469d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0469cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0470d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0470cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0471d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0471cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0472d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0472cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0473d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0473cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0474d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0474cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0475d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0475cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0476d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0476cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0477d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0477cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0478d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0478cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0479d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0479cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0480d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0480cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0481d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0481cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0482d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0482cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0483d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0483cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0484d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0484cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0485d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0485cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0486d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0486cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0487d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0487cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0488d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0488cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0489d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0489cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0490d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0490cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0491d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0491cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0492d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0492cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0493d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0493cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0494d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0494cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0495d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0495cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0496d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0496cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0497d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0497cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0498d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0498cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0499d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\04\\pcd0499cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0500d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0500cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0501d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0501cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0502d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0502cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0503d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0503cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0504d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0504cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0505d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0505cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0506d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0506cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0507d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0507cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0508d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0508cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0509d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0509cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0510d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0510cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0511d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0511cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0512d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0512cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0513d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0513cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0514d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0514cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0515d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0515cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0516d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0516cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0517d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0517cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0518d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0518cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0519d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0519cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0520d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0520cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0521d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0521cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0522d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0522cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0523d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0523cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0524d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0524cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0525d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0525cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0526d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0526cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0527d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0527cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0528d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0528cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0529d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0529cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0530d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0530cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0531d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0531cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0532d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0532cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0533d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0533cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0534d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0534cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0535d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0535cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0536d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0536cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0537d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0537cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0538d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0538cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0539d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0539cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0540d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0540cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0541d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0541cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0542d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0542cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0543d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0543cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0544d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0544cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0545d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0545cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0546d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0546cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0547d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0547cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0548d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0548cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0549d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0549cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0550d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0550cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0551d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0551cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0552d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0552cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0553d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0553cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0554d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0554cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0555d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0555cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0556d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0556cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0557d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0557cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0558d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0558cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0559d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0559cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0560d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0560cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0561d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0561cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0562d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0562cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0563d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0563cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0564d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0564cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0565d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0565cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0566d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0566cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0567d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0567cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0568d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0568cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0569d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0569cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0570d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0570cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0571d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0571cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0572d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0572cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0573d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0573cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0574d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0574cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0575d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0575cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0576d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0576cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0577d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0577cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0578d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0578cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0579d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0579cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0580d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0580cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0581d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0581cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0582d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0582cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0583d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0583cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0584d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0584cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0585d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0585cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0586d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0586cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0587d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0587cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0588d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0588cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0589d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0589cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0590d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0590cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0591d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0591cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0592d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0592cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0593d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0593cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0594d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0594cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0595d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0595cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0596d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0596cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0597d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0597cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0598d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0598cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0599d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\05\\pcd0599cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0600d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0600cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0601d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0601cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0602d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0602cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0603d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0603cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0604d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0604cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0605d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0605cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0606d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0606cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0607d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0607cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0608d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0608cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0609d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0609cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0610d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0610cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0611d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0611cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0612d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0612cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0613d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0613cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0614d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0614cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0615d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0615cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0616d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0616cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0617d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0617cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0618d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0618cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0619d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0619cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0620d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0620cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0621d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0621cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0622d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0622cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0623d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0623cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0624d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0624cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0625d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0625cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0626d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0626cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0627d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0627cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0628d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0628cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0629d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0629cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0630d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0630cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0631d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0631cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0632d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0632cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0633d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0633cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0634d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0634cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0635d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0635cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0636d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0636cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0637d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0637cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0638d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0638cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0639d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0639cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0640d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0640cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0641d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0641cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0642d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0642cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0643d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0643cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0644d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0644cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0645d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0645cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0646d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0646cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0647d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0647cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0648d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0648cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0649d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0649cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0650d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0650cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0651d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0651cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0652d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0652cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0653d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0653cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0654d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0654cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0655d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0655cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0656d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0656cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0657d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0657cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0658d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0658cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0659d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0659cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0660d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0660cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0661d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0661cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0662d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0662cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0663d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0663cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0664d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0664cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0665d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0665cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0666d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0666cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0667d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0667cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0668d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0668cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0669d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0669cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0670d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0670cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0671d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0671cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0672d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0672cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0673d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0673cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0674d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0674cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0675d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0675cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0676d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0676cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0677d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0677cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0678d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0678cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0679d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0679cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0680d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0680cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0681d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0681cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0682d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0682cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0683d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0683cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0684d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0684cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0685d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0685cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0686d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0686cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0687d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0687cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0688d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0688cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0689d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0689cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0690d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0690cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0691d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0691cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0692d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0692cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0693d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0693cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0694d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0694cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0695d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0695cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0696d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0696cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0697d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0697cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0698d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0698cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0699d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\06\\pcd0699cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0700d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0700cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0701d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0701cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0702d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0702cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0703d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0703cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0704d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0704cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0705d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0705cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0706d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0706cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0707d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0707cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0708d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0708cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0709d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0709cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0710d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0710cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0711d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0711cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0712d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0712cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0713d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0713cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0714d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0714cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0715d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0715cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0716d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0716cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0717d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0717cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0718d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0718cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0719d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0719cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0720d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0720cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0721d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0721cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0722d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0722cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0723d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0723cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0724d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0724cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0725d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0725cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0726d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0726cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0727d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0727cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0728d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0728cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0729d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0729cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0730d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0730cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0731d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0731cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0732d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0732cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0733d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0733cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0734d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0734cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0735d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0735cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0736d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0736cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0737d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0737cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0738d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0738cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0739d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0739cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0740d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0740cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0741d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0741cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0742d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0742cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0743d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0743cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0744d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0744cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0745d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0745cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0746d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0746cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0747d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0747cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0748d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0748cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0749d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0749cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0750d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0750cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0751d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0751cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0752d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0752cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0753d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0753cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0754d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0754cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0755d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0755cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0756d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0756cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0757d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0757cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0758d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0758cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0759d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0759cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0760d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0760cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0761d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0761cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0762d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0762cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0763d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0763cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0764d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0764cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0765d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0765cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0766d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0766cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0767d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0767cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0768d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0768cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0769d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0769cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0770d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0770cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0771d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0771cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0772d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0772cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0773d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0773cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0774d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0774cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0775d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0775cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0776d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0776cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0777d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0777cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0778d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0778cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0779d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0779cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0780d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0780cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0781d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0781cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0782d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0782cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0783d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0783cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0784d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0784cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0785d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0785cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0786d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0786cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0787d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0787cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0788d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0788cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0789d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0789cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0790d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0790cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0791d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0791cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0792d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0792cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0793d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0793cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0794d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0794cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0795d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0795cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0796d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0796cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0797d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0797cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0798d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0798cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0799d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\07\\pcd0799cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0800d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0800cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0801d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0801cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0802d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0802cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0803d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0803cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0804d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0804cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0805d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0805cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0806d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0806cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0807d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0807cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0808d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0808cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0809d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0809cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0810d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0810cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0811d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0811cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0812d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0812cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0813d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0813cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0814d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0814cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0815d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0815cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0816d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0816cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0817d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0817cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0818d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0818cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0819d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0819cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0820d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0820cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0821d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0821cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0822d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0822cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0823d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0823cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0824d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0824cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0825d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0825cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0826d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0826cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0827d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0827cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0828d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0828cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0829d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0829cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0830d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0830cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0831d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0831cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0832d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0832cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0833d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0833cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0834d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0834cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0835d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0835cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0836d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0836cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0837d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0837cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0838d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0838cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0839d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0839cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0840d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0840cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0841d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0841cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0842d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0842cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0843d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0843cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0844d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0844cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0845d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0845cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0846d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0846cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0847d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0847cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0848d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0848cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0849d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0849cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0850d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0850cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0851d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0851cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0852d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0852cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0853d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0853cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0854d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0854cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0855d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0855cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0856d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0856cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0857d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0857cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0858d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0858cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0859d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0859cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0860d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0860cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0861d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0861cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0862d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0862cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0863d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0863cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0864d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0864cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0865d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0865cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0866d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0866cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0867d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0867cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0868d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0868cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0869d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0869cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0870d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0870cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0871d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0871cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0872d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0872cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0873d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0873cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0874d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0874cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0875d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0875cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0876d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0876cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0877d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0877cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0878d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0878cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0879d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0879cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0880d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0880cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0881d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0881cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0882d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0882cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0883d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0883cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0884d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0884cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0885d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0885cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0886d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0886cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0887d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0887cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0888d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0888cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0889d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0889cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0890d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0890cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0891d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0891cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0892d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0892cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0893d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0893cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0894d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0894cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0895d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0895cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0896d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0896cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0897d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0897cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0898d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0898cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0899d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\08\\pcd0899cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0900d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0900cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0901d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0901cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0902d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0902cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0903d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0903cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0904d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0904cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0905d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0905cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0906d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0906cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0907d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0907cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0908d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0908cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0909d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0909cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0910d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0910cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0911d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0911cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0912d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0912cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0913d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0913cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0914d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0914cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0915d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0915cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0916d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0916cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0917d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0917cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0918d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0918cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0919d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0919cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0920d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0920cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0921d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0921cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0922d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0922cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0923d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0923cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0924d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0924cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0925d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0925cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0926d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0926cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0927d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0927cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0928d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0928cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0929d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0929cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0930d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0930cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0931d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0931cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0932d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0932cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0933d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0933cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0934d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0934cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0935d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0935cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0936d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0936cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0937d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0937cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0938d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0938cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0939d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0939cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0940d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0940cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0941d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0941cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0942d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0942cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0943d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0943cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0944d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0944cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0945d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0945cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0946d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0946cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0947d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0947cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0948d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0948cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0949d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\09\\pcd0949cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1000d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1000cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1001d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1001cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1002d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1002cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1003d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1003cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1004d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1004cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1005d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1005cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1006d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1006cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1007d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1007cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1008d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1008cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1009d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1009cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1010d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1010cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1011d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1011cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1012d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1012cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1013d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1013cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1014d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1014cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1015d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1015cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1016d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1016cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1017d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1017cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1018d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1018cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1019d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1019cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1020d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1020cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1021d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1021cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1022d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1022cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1023d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1023cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1024d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1024cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1025d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1025cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1026d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1026cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1027d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1027cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1028d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1028cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1029d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1029cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1030d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1030cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1031d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1031cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1032d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1032cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1033d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1033cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  },
+  {
+    "depth": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1034d.tiff",
+    "grasps": "D:\\od\\ggcnn_modern1\\datasets\\cornell\\10\\pcd1034cpos.txt",
+    "orig_w": 640,
+    "orig_h": 480
+  }
+]
